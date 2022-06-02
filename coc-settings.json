@@ -7,5 +7,8 @@
   "coc.preferences.formatOnSaveFiletypes": ["javascript", "typescript", "typescriptreact", "json", "javascriptreact","typescript.tsx"],
   "eslint.filetypes": ["javascript", "typescript", "typescriptreact", "javascriptreact", "typescript.tsx"],
   "coc.preferences.diagnostic.virtualText": true,
-  "emmet.includeLanguages": {"javscript":"javascriptreact"}
+  "emmet.includeLanguages": {"javscript":"javascriptreact"},
+  "javascript.suggest.autoImports":true,
+  "typescript.suggest.autoImports":true,
+  "javascriptreact.suggest.autoImports":true,
 }

@@ -1,5 +1,12 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =3
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/home/rohith/Desktop/ecell/keynotes-and-masterclasses/src'
+let g:netrw_dirhist_9='/home/rohith/Desktop/ecell/keynotes-and-masterclasses/src/pages'
+let g:netrw_dirhist_8='/home/rohith/Desktop/ecell/keynotes-and-masterclasses/src/pages/landing-page'
+let g:netrw_dirhist_7='/home/rohith/Desktop/projects/SocialMediaApp/backend/controllers'
+let g:netrw_dirhist_6='/home/rohith/Desktop/projects/SocialMediaApp/backend'
+let g:netrw_dirhist_5='/home/rohith/Desktop/projects/SocialMediaApp/backend/controllers'
+let g:netrw_dirhist_4='/home/rohith/Desktop/projects/SocialMediaApp/backend'
 let g:netrw_dirhist_3='/mnt/c/Users/ROHITH SURESH/Desktop/hardwareStuff'
 let g:netrw_dirhist_2='/mnt/c/Users/ROHITH SURESH/Desktop/dsalgo/datastructuresC/CyclicSort'
 let g:netrw_dirhist_1='/mnt/c/Users/ROHITH SURESH/Desktop/dsalgo/CPP'

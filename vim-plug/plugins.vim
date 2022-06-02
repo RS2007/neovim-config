@@ -21,4 +21,21 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'vim-scripts/Zenburn'
     Plug 'neoclide/coc.nvim',{'branch':'release'}
     Plug 'chriskempson/base16-vim'
+    Plug 'dsznajder/vscode-es7-javascript-react-snippets', { 'do': 'yarn install --frozen-lockfile && yarn compile' }
+    Plug 'nvim-lua/plenary.nvim'
+    Plug 'nvim-telescope/telescope.nvim'
+    Plug 'morhetz/gruvbox'
+    Plug 'ryanoasis/vim-devicons'
+    Plug 'nvim-lua/completion-nvim'
+    Plug 'lifepillar/vim-solarized8'
+    Plug 'safv12/andromeda.vim'
+    if(has("nvim"))
+        Plug 'neovim/nvim-lspconfig'
+        Plug 'kabouzeid/nvim-lspinstall'
+    endif
+    Plug 'hrsh7th/nvim-compe'
+    Plug 'navarasu/onedark.nvim'
+    Plug 'mracos/mermaid.vim'
+    Plug 'arcticicestudio/nord-vim'
+    Plug 'haishanh/night-owl.vim'
 call plug#end()
